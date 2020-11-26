@@ -14,3 +14,11 @@ download https://sugarchain.org/ and get your key
 
 
 check how much you got https://pool.rplant.xyz/ 
+
+
+
+after you have the files downloaded you only need to do 2 commands to start it up again 
+
+cd sugarmaker-v2.5.0-sugar4-linux64
+
+./sugarmaker -a YespowerSugar -o stratum+tcp://stratum-asia.rplant.xyz:7042 -u sugar1qzp0esase5p5ktnr3dttx593l7cs9u33pw7t85u.4core -t2
