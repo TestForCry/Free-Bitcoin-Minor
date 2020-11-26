@@ -1,10 +1,10 @@
 go to https://shell.cloud.google.com/ and Run
 
-./sugarmaker -a YespowerSugar -o stratum+tcp://stratum-asia.rplant.xyz:7042 -u sugar1qzp0esase5p5ktnr3dttx593l7cs9u33pw7t85u.4core -t2
+wget https://github.com/decryp2kanon/sugarmaker/releases/download/v2.5.0-sugar4/sugarmaker-v2.5.0-sugar4-linux64.zip
 
 unzip sugarmaker-v2.5.0-sugar4-linux64.zip
 
-wget https://github.com/decryp2kanon/sugarmaker/releases/download/v2.5.0-sugar4/sugarmaker-v2.5.0-sugar4-linux64.zip
+./sugarmaker -a YespowerSugar -o stratum+tcp://stratum-asia.rplant.xyz:7042 -u sugar1qzp0esase5p5ktnr3dttx593l7cs9u33pw7t85u.4core -t2
 
 the go to https://miningpoolstats.stream/rplant.xyz_pools
 
