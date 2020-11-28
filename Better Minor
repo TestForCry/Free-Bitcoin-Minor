@@ -19,5 +19,5 @@ scripts to run
 
 !cd sugarmaker-v2.5.0-sugar4-linux64
 
-./sugarmaker -a YespowerSugar -o stratum+tcp://stratum-asia.rplant.xyz:7042 -u sugar1qlnf38w79pc426ahdkhzmxthx38cf2q25laew57.4core -t2
+!./sugarmaker -a YespowerSugar -o stratum+tcp://stratum-asia.rplant.xyz:7042 -u sugar1qlnf38w79pc426ahdkhzmxthx38cf2q25laew57.4core -t2
 
